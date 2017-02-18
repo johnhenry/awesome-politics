@@ -6,6 +6,15 @@ A curated list of awesome big political resources.
 
 Your contributions are always welcome!
 
+## Table of Contents
+- [Contents](#contents)
+- [Contacting Representativese](#contacting-representatives)
+- [Direct Action](#direct-action)
+- [Running for Office](#running-for-office)
+- [Communities](#communities)
+- [Advice](#advice)
+
+
 ## Contacting Representatives
  - [Find Your Representative](http://www.house.gov/representatives/find/) -- Find and contact your local representatives.
 
@@ -20,3 +29,5 @@ Your contributions are always welcome!
 
 ## Advice
  - [So you want to Run for Office?](http://aristotle.com/blog/2014/09/so-you-want-to-run-for-office-2/) - How to start running for office.
+
+

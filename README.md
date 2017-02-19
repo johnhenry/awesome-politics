@@ -7,8 +7,8 @@ A curated list of awesome big political resources.
 Your contributions are always welcome!
 
 ## Table of Contents
-- [Contents](#contents)
-- [Contacting Representativese](#contacting-representatives)
+- [Contents](#table-of-contents)
+- [Contacting Representatives](#contacting-representatives)
 - [Direct Action](#direct-action)
 - [Running for Office](#running-for-office)
 - [Communities](#communities)
